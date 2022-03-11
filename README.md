@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @imCodeHQ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 | Hey! I'm CodeHQ
 
-<!---
-imCodeHQ/imCodeHQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Twitter • @MHechizo
+
+My name is Andrés, I am a Pockectmine developer from Arg. 🇦🇷
+
+I have over 2 years of experience working with PHP, but I have also worked with other languages such as PHP, JavaScript, HTML.
+
+If you want to know more about me, follow me on twitter.
